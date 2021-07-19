@@ -1,5 +1,5 @@
 # PTE-NMT
-Source code for the NAACL 2021 long paper <Pruning-then-Expanding Model for Domain Adaptation of Neural Machine Translation>.
+Source code for the NAACL 2021 long paper Pruning-then-Expanding Model for Domain Adaptation of Neural Machine Translation.
 
 ## Related code
 
