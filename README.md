@@ -12,6 +12,11 @@ This system has been tested in the following environment.
 + Pytorch version \>=1.0
 
 ## Get started
+-Build
+```
+python setup.py build develop
+```
+
 - Preprocess the training data. Pretrain the general-domain model with the general-domain data. Read [here](https://fairseq.readthedocs.io/en/latest/getting_started.html#training-a-new-model) for more instructions.
 
 - Evaluate the importance of the parameters and prune the general domain model.
