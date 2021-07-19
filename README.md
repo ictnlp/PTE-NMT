@@ -12,7 +12,7 @@ This system has been tested in the following environment.
 + Pytorch version \>=1.0
 
 ## Get started
--Build
+- Build
 ```
 python setup.py build develop
 ```
